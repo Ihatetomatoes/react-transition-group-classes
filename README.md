@@ -1,9 +1,9 @@
-# React Animation Tutorial
+# React Animations Tutorial
 Working files for my YouTube tutorial.
 
 ## Related Video
 
-[![React Animation Tutorial](v114-React-Animations-Tutorial.jpg)](#)
+[![React Animations Tutorial](v114-React-Animations-Tutorial.jpg)](#)
 
 Upload in progress.
 
