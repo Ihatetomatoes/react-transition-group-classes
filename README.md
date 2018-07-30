@@ -3,9 +3,7 @@ Working files for my YouTube tutorial.
 
 ## Related Video
 
-[![React Animations Tutorial](v114-React-Animations-Tutorial.jpg)](#)
-
-Upload in progress.
+[![React Animations Tutorial](v114-React-Animations-Tutorial.jpg)](https://www.youtube.com/watch?v=BZRyIOrWfHU)
 
 ## How to use
 
